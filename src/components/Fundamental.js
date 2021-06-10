@@ -26,7 +26,7 @@ const Fundamental = () => {
                 quae similique laboriosam iste minus placeat odit velit quos,
                 nulla architecto amet voluptates?
               </p>
-              <a href="#" className="btn btn-light mt-3">
+              <a href="/" className="btn btn-light mt-3">
                 <i className="bi bi-chevron-right"></i> Read More
               </a>
             </div>
@@ -49,7 +49,7 @@ const Fundamental = () => {
                 quae similique laboriosam iste minus placeat odit velit quos,
                 nulla architecto amet voluptates?
               </p>
-              <a href="#" className="btn btn-light mt-3">
+              <a href="/" className="btn btn-light mt-3">
                 <i className="bi bi-chevron-right"></i> Read More
               </a>
             </div>
